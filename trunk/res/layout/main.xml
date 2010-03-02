@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:gravity="center"><LinearLayout android:id="@+id/LinearLayout02" android:orientation="vertical" android:layout_height="fill_parent" android:gravity="center" android:paddingRight="10dip" android:layout_width="wrap_content"><TextView android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="                                     " android:paddingBottom="10dip"></TextView><Button android:id="@+id/Button02" android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/choose"></Button><Spinner android:layout_height="wrap_content" android:layout_width="fill_parent" android:entries="@array/boardsize" style="simple_dropdown_item_1line" android:id="@+id/SpinnerSize"></Spinner><Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/start" android:id="@+id/StartButton"></Button>
+
+</LinearLayout>
+<LinearLayout android:id="@+id/LinearLayout03" android:orientation="vertical" android:layout_height="fill_parent" android:layout_width="wrap_content" android:gravity="center"><TextView android:id="@+id/TextView01" android:layout_height="wrap_content" android:layout_gravity="center" android:text="@string/credits" android:layout_width="fill_parent" android:textStyle="bold" android:gravity="center" android:lineSpacingExtra="2dip"></TextView><ImageView android:id="@+id/ImageView01" android:src="@drawable/android_developers" android:layout_height="wrap_content" android:layout_width="wrap_content" android:adjustViewBounds="true" android:scaleType="fitXY" android:maxWidth="150dip"></ImageView><TextView android:id="@+id/TextView01" android:layout_height="wrap_content" android:layout_gravity="center" android:padding="10dip" android:layout_width="fill_parent" android:gravity="center" android:lineSpacingExtra="2dip" android:text="@string/credits2" android:textStyle="italic" android:typeface="serif" android:textSize="13dip"></TextView>
+</LinearLayout>
+
+
+
+</LinearLayout>

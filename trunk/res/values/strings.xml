@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">aSliding Puzzle</string>
+<string name="start">Start !</string>
+<string name="credits">aSliding Puzzle\n(Free Demo)</string><string name="credits2">By Julio De Gregorio</string>
+<string name="choose">Choose Pic ...</string>
+</resources>
