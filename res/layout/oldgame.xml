@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TableLayout android:id="@+id/TableLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"><TableRow android:id="@+id/TableRow01" xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent" android:orientation="vertical" android:layout_height="wrap_content"><ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:adjustViewBounds="true" android:id="@+id/ImageView11" android:src="@drawable/p1" android:scaleType="fitXY"></ImageView><ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="160dip" android:adjustViewBounds="true" android:scaleType="fitXY" android:id="@+id/ImageView12" android:src="@drawable/p2"></ImageView><ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:maxWidth="160dip" android:adjustViewBounds="true" android:id="@+id/ImageView13" android:src="@drawable/p1"></ImageView>
+
+
+
+
+</TableRow><TableRow xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent" android:id="@+id/TableRow02" android:layout_height="wrap_content"><ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:maxWidth="160dip" android:adjustViewBounds="true" android:id="@+id/ImageView21" android:src="@drawable/p1"></ImageView>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="160dip" android:adjustViewBounds="true" android:scaleType="fitXY" android:id="@+id/ImageView22" android:src="@drawable/p2"></ImageView>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:maxWidth="160dip" android:adjustViewBounds="true" android:id="@+id/ImageView23" android:src="@drawable/p1"></ImageView>
+</TableRow><TableRow xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/TableRow03"><ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:maxWidth="160dip" android:adjustViewBounds="true" android:id="@+id/ImageView31" android:src="@drawable/p1"></ImageView>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="160dip" android:adjustViewBounds="true" android:scaleType="fitXY" android:id="@+id/ImageView32" android:src="@drawable/p2"></ImageView>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:maxWidth="160dip" android:adjustViewBounds="true" android:id="@+id/ImageView33" android:src="@drawable/p1"></ImageView>
+</TableRow></TableLayout>
